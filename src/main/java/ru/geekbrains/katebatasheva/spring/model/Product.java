@@ -1,4 +1,4 @@
-package ru.geekbrains.katebatasheva.spring;
+package ru.geekbrains.katebatasheva.spring.model;
 
 import org.springframework.stereotype.Component;
 
